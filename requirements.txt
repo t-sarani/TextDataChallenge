@@ -1,0 +1,21 @@
+## Requirements
+
+Before you begin, ensure you have met the following requirements:
+
+- **Programming Language**: Python (version 3.x)
+- **Libraries**: The following libraries are required for this project:
+  - `wordcloud`
+  - `numpy`
+  - `matplotlib`
+  - `PyPDF2`
+  - `nltk`
+  - `pdfminer.six`
+  - `pdfplumber`
+  - `pandas`
+  - `scikit-learn`
+  - `textblob`
+
+You can install the required libraries by running the following command:
+
+```bash
+pip install wordcloud numpy matplotlib PyPDF2 nltk pdfminer.six pdfplumber pandas scikit-learn textblob
