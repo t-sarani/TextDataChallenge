@@ -25,10 +25,9 @@ The repository includes a file named [`new.code`](new.code), which contains my i
 ## Visuals
 Here are a couple of screenshots from the project:
 
-![Figure 3](image/Figure_3.png)
-![Figure 9](image/Figure_9.png)
+![Figure 3](C:\Users\USER\Desktop\Neyshabur competition\images\Figure_3.png)
+![Figure 9](C:\Users\USER\Desktop\Neyshabur competition\images\Figure_9.png)
 
-> Note: Ensure the images are correctly placed in the `image` folder of your repository.
 
 ## Contact
 If you're interested in collaborating on this project or if you have any questions, feel free to reach out!
@@ -39,5 +38,4 @@ Thank you for your interest, and let's embark on this data exploration journey t
 
 ---
 
-Good luck with your assignments!  
-Statistics Association of the University of Neyshabur
+Good luck
